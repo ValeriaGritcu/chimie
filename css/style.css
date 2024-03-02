@@ -1,0 +1,13 @@
+dl {
+    display: grid;
+    grid-template-columns: max-content auto;
+}
+
+div {
+    width: 200px;
+}
+
+p {
+    margin-left: 43px;
+    height: 5px;
+}
