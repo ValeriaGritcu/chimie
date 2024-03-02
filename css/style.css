@@ -1,13 +1,15 @@
-dl {
-    display: grid;
-    grid-template-columns: max-content auto;
+ul {
+    list-style-type: disc;
+}
+
+.one {
+    margin-left: 35px;
+}
+
+.two {
+    margin-left: 20px;
 }
 
 div {
-    width: 200px;
-}
-
-p {
-    margin-left: 43px;
-    height: 5px;
+    width: 25%;
 }
